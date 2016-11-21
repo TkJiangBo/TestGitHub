@@ -1,0 +1,6 @@
+{
+    "name":"webpack-gui",
+    "scripts": {
+        "start":"node index.js"
+    }
+}
